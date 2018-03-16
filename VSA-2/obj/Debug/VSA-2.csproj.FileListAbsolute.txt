@@ -1,0 +1,7 @@
+C:\Users\masta\OneDrive\Documents\Visual Studio 2015\Projects\VSA-2\VSA-2\bin\Debug\VSA-2.dll
+C:\Users\masta\OneDrive\Documents\Visual Studio 2015\Projects\VSA-2\VSA-2\bin\Debug\VSA-2.pdb
+C:\Users\masta\OneDrive\Documents\Visual Studio 2015\Projects\VSA-2\VSA-2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\masta\OneDrive\Documents\Visual Studio 2015\Projects\VSA-2\VSA-2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\masta\OneDrive\Documents\Visual Studio 2015\Projects\VSA-2\VSA-2\obj\Debug\VSA-2.dll
+C:\Users\masta\OneDrive\Documents\Visual Studio 2015\Projects\VSA-2\VSA-2\obj\Debug\VSA-2.pdb
+C:\Users\masta\OneDrive\Documents\Visual Studio 2015\Projects\VSA-2\VSA-2\obj\Debug\VSA-2.csprojResolveAssemblyReference.cache
